@@ -1,0 +1,3 @@
+- Entrego el ejercicio en forma individual porque no tuve respuesta de mi companero de equipo, envié mail y no tuve respuesta. En la planilla no dejó un nro de celular.
+- Lo entregué tarde porque no lo pude hacer por asuntos laborales que me impidieron asignarle tiempo al ejercicio.
+- Está incompleto porque no pude resolver como dejar el <h2> en una linea independiente a los <articles>. Mi intención era dejar el <h2> en un solo renglón y los <article> otra fila, en dos columnas. Creo que el echo de no usar <DIV> en el HTML me impidieron conseguir el objetivo. 
